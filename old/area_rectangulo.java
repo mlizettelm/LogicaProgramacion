@@ -1,4 +1,5 @@
 package old;
+
 void main(){
 int base;
 int altura;
