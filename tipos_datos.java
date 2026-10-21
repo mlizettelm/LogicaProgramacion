@@ -33,7 +33,7 @@ public class tipos_datos {
         // TIPOS DE DATOS COMPLEJOS (No primitivos)
         System.out.println("\n=== 2. TIPOS DE DATOS COMPLEJOS (No primitivos) ===");
         // String NO es primitivo, es una clase y sirve para guardar textos completos (va entre comillas dobles)
-        String nombre = "Carlos";
+        String nombre = "Liz";
         String saludo = "¡Hola, bienvenidos a Java!";
         
         // Arreglos, son colecciones de tamaño fijo)
@@ -51,6 +51,25 @@ public class tipos_datos {
         amigos[1] = "Luis";
         amigos[2] = "Sofia";
         int[] cantidades = {10, 20, 30, 40, 50};
+
+        System.out.println(edad);
+        System.out.println(poblacionMundial);
+        System.out.println(precio);
+        System.out.println(altura);
+        System.out.println(esPersona);
+        System.out.println(inicial);
+        System.out.println(PI);
+        System.out.println(DIAS_SEMANA);
+        System.out.println(NOMBRE_PAIS);
+        System.out.println(ES_VERDADERO);
+        System.out.println(LETRA);
+        System.out.println(NUMERO_GRANDE);
+        System.out.println(NUMERO_DECIMAL);
+        System.out.println(nombre);
+        System.out.println(saludo);
+        System.out.println(telefonos);
+        System.out.println(calificaciones);
+        System.out.println(cantidades);
 
     }
 }
