@@ -40,7 +40,7 @@ public class arraylist {
         alumnos[26] = "Viveros Tellez Kevin";
         
         // definir un arreglo de asistencia
-        boolean[] asistencia = new boolean[27];
+        // boolean[] asistencia = new boolean[27];
         Scanner consola = new Scanner(System.in);
         
         // definir variables acumuladoras para asistencias y faltas
